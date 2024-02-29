@@ -1,6 +1,7 @@
 <B>
 write a c++ program to find the sum of the series 1+3+5+.....+n.
 </B>
+<br>
 #include <iostream>
 using namespace std;
 int main ()
